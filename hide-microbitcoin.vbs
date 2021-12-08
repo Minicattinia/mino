@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "C:\Temp\mino\miner-avian-microbitcoin.bat",0,True
